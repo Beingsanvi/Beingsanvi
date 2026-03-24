@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, I'm Sanvi Sharma
 
-<!--
-**Beingsanvi/Beingsanvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Computer Science Engineering student specializing in Artificial Intelligence.  
+I have a strong interest in Machine Learning, Data Analysis, and Problem Solving using DSA.
 
-Here are some ideas to get you started:
+💡 I love turning data into insights and building practical projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently Working On:
+- Stock Market Prediction using ML
+- Strengthening DSA in C++
+
+🛠️ Tech Stack:
+- Python (Pandas, NumPy, Scikit-learn)
+- C++
+- Git & GitHub
+
+🎯 Goal:
+To become a skilled AI/ML engineer with strong logical and analytical abilities.
+
+✨ "Consistency beats talent when talent doesn't work hard."
